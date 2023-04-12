@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App_Sem04-1-correo</string>
+    <string name="enviar">Enviar</string>
+    <string name="email">Email</string>
+</resources>
